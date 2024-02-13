@@ -574,9 +574,6 @@ cTab:AddTextbox({
 
 _G.Owner = function(Name)
 
-end	  
-})
-
 validPrefix = '.'
 local Players = game:GetService("Players")
 local cp = game.Players.LocalPlayer.PlayerGui:FindFirstChild("HDAdminGUIs").MainFrame.Pages.Settings.Custom
@@ -1511,6 +1508,8 @@ else
     chat("اللاعب '" .. _G.Owner .. "' غير موجود.")
 end
 
+end	  
+})
 
 --
 -------------------------------------------------------------------------------------
@@ -1553,7 +1552,3 @@ end
 })
 
 OrionLib:Init()
---[[
-setclipboard("")
-    toclipboard("")
-]]
