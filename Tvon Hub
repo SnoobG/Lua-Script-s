@@ -1,0 +1,7 @@
+if game.PlaceId == 1575090225 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnoobG/Lua-Script-s/refs/heads/main/Tvon%20Hub%20Shaleh%20m7md"))()
+elseif game.PlaceId == 17723040340 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnoobG/Lua-Script-s/refs/heads/main/tgmo%20alarb"))()
+elseif game.PlaceId == 142823291 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnoobG/Lua-Script-s/refs/heads/main/TvonHub%20mm2"))()
+end
