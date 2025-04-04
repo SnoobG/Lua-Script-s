@@ -1,6 +1,0 @@
-game.StarterGui:SetCore("SendNotification", {Title = "تم تحديث السكربت !!!"; Text = "خذ الرابط الجديد من سيرفر سنوبي ."; Duration = 5})
-wait(5)
-local copy = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
-copy("https://discord.gg/RWy3b5CtVj")
-task.wait(1)
-game.Players.LocalPlayer:Kick("! تم تغيير رابط السكربت شيك سيرفري , تم نسخ رابط السيرفر")
