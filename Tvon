@@ -1,0 +1,9 @@
+if game.PlaceId == 1575090225 or 11161846807 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SnoobG/Lua-Script-s/refs/heads/main/TvonHub%20shaleh%20m7md%20v7.00'))()
+elseif game.PlaceId == 4924922222 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SnoobG/Lua-Script-s/refs/heads/main/BrookHaven%20TvonHub'))()
+elseif game.PlaceId == 142823291 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SnoobG/Lua-Script-s/refs/heads/main/TvonHub%20mm2'))()
+else
+    game.Players.LocalPlayer:Kick("Tvon لا يدعم هذا الماب !")
+end
