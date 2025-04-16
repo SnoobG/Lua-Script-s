@@ -3,6 +3,7 @@ local scripts = {
     [11161846807] = 'TvonHub%20shaleh%20m7md%20v7.00',
     [4924922222] = 'BrookHaven%20TvonHub',
     [142823291] = 'TvonHub%20mm2',
+    [11379739543] = 'Tvon%20TimeBomb',
 }
 
 local scriptName = scripts[game.PlaceId]
