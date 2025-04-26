@@ -4,6 +4,7 @@ local scripts = {
     [4924922222] = 'BrookHaven%20TvonHub',
     [142823291] = 'TvonHub%20mm2',
     [11379739543] = 'Tvon%20TimeBomb',
+    [14201103742] = 'Arabic%20School%20v1',
 }
 
 local scriptName = scripts[game.PlaceId]
