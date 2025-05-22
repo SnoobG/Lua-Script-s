@@ -1,2 +1,0 @@
-local plr = game.Players.LocalPlayer
-plr:Kick("تم حذف السكربت | للمزيد من السكربت ادخل الدسكورد\n discord.gg/Tvon")
